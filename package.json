@@ -20,5 +20,8 @@
     "rsync"
   ],
   "author": "scarafia",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "rsbkp": "0.0.1"
+  }
 }
