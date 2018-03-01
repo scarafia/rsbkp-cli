@@ -1,0 +1,24 @@
+{
+  "name": "rsbkp-cli",
+  "version": "0.0.0",
+  "description": "Rsbkp client app, intended for full, differential and incremental backups, or simply syncing files and directories.",
+  "main": "bin/rsbkp-cli.js",
+  "bin": {
+    "rsbkp": "./bin/rsbkp-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scarafia/rsbkp-cli.git"
+  },
+  "keywords": [
+    "rsbkp",
+    "bkp",
+    "backup",
+    "rsync"
+  ],
+  "author": "scarafia",
+  "license": "ISC"
+}
