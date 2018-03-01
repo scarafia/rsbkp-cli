@@ -1,6 +1,6 @@
 {
   "name": "rsbkp-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Rsbkp client app, intended for full, differential and incremental backups, or simply syncing files and directories.",
   "main": "bin/rsbkp-cli.js",
   "bin": {
